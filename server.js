@@ -37,6 +37,7 @@ if (result.error) {
 //   console.log('appEnv=', appEnv);
 //   var services = appEnv.getServices();
 //   console.log('services=', services);
+// Test
 //   for (var svcName in services) {
 //     console.log('svcName=', svcName);
 //     if (services.hasOwnProperty(svcName)) {

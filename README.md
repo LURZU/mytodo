@@ -28,4 +28,10 @@
 + and finally I change the value in server.js
 + ![SCR-20250411-mhug.png](images/SCR-20250411-mhug.png)
 
+
+
+# Application fonctionnel :
 Lien de l'app : https://mytodomosti.osc-fr1.scalingo.io/
+
+
+![SCR-20250411-ndns.png](images/SCR-20250411-ndns.png)

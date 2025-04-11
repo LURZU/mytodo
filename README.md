@@ -35,3 +35,9 @@ Lien de l'app : https://mytodomosti.osc-fr1.scalingo.io/
 
 
 ![SCR-20250411-ndns.png](images/SCR-20250411-ndns.png)
+
+
+
+# MongoDb héberger sur Azure
+
+![SCR-20250411-ohik.png](images/SCR-20250411-ohik.png)

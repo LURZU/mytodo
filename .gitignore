@@ -22,6 +22,7 @@ cloud/kubernetes/imagePullSecret.json
 cloud/kubernetes/ingress-tls-rewrite.yaml
 cloud/kubernetes/mytodo.yaml
 cloud/kubernetes/mytodo-community.yaml
+.env
 
 # Miscellaneous
 myreadme.txt

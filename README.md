@@ -15,3 +15,17 @@
 
 ![SCR-20250411-lwlj.png](images/SCR-20250411-lwsy.png)
 
+
+# I change db-mongo.js and server.js to connect with MONGO_URL in .env
+
++ Change self.init db-mongo.js
+![SCR-20250411-mgtv.png](images/SCR-20250411-mgtv.png)
+
++ I also add .env value for collectio nand db name
+
+![SCR-20250411-mhhc.png](images/SCR-20250411-mhhc.png)
+
++ and finally I change the value in server.js
++ ![SCR-20250411-mhug.png](images/SCR-20250411-mhug.png)
+
+Lien de l'app : https://mytodomosti.osc-fr1.scalingo.io/
